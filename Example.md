@@ -3,8 +3,7 @@ Held at the ***Guy Fawkes*** Training Room on 5th November (Guy Fawkes Night) fr
 <a name="TheTop"></a>
 ### Trainers
 Ash.    
-Mark.
-**Ujjwal**
+Mark.  **Ujjwal**
 
 ## Topics
 Headings   
